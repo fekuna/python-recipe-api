@@ -13,3 +13,7 @@ app/*/*/*/__pycache__/
 .env/
 .venv/
 venv/
+
+# local
+.local-deps
+.local-deps/*
