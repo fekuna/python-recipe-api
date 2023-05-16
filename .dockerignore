@@ -16,4 +16,5 @@ venv/
 
 # local
 .local-deps
+.local-deps/
 .local-deps/*
