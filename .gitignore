@@ -130,3 +130,5 @@ dmypy.json
 
 #local deps
 .local-deps/
+
+.vscode

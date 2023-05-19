@@ -18,3 +18,5 @@ venv/
 .local-deps
 .local-deps/
 .local-deps/*
+
+.vscode
